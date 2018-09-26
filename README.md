@@ -1,0 +1,1 @@
+# generador-adm-manager
